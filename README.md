@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus Gonzalez</h1>
-<h3 align="center">Soy estudiante de Tecnología en Gestion de Sistemas Informáticos con enfoque en desarrollo web de lado del servidor (Back-End); tengo experiencia técnica en Java, Python, HTML/CSS, y JavaScript, MySQL, Angular.</h3>
+<h3 align="center">Soy Tecnologo en Gestion de Sistemas Informáticos con enfoque en desarrollo web de lado del servidor (Back-End); tengo experiencia técnica en Java, Python, HTML/CSS, y JavaScript, MySQL, Angular.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusjoelgonca&label=Profile%20views&color=0e75b6&style=flat" alt="jesusjoelgonca" /> </p>
 
